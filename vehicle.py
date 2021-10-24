@@ -15,6 +15,6 @@ class Car(Vehicle):
         print("I am a car")
         print("Number of tyres are ",self.tyres)
         print("Value of horse power is ",self.hp)
-c1 = Car(200s,1200000,4,300)
+c1 = Car(200,1200000,4,300)
 c1.show_details()
 c1.show_car_details()
